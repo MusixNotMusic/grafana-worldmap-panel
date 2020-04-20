@@ -1,0 +1,1142 @@
+[
+    {
+        "key": "haimen",
+        "latitude": 31.89,
+        "longitude": 121.15,
+        "name": "海门"
+    },
+    {
+        "key": "eerduosi",
+        "latitude": 39.608266,
+        "longitude": 109.781327,
+        "name": "鄂尔多斯"
+    },
+    {
+        "key": "zhaoyuan",
+        "latitude": 37.35,
+        "longitude": 120.38,
+        "name": "招远"
+    },
+    {
+        "key": "zhoushan",
+        "latitude": 29.985295,
+        "longitude": 122.207216,
+        "name": "舟山"
+    },
+    {
+        "key": "qijizizhaiqijizizhaihaer",
+        "latitude": 47.33,
+        "longitude": 123.97,
+        "name": "齐齐哈尔"
+    },
+    {
+        "key": "yancheng",
+        "latitude": 33.38,
+        "longitude": 120.13,
+        "name": "盐城"
+    },
+    {
+        "key": "chifeng",
+        "latitude": 42.28,
+        "longitude": 118.87,
+        "name": "赤峰"
+    },
+    {
+        "key": "qingdao",
+        "latitude": 36.07,
+        "longitude": 120.33,
+        "name": "青岛"
+    },
+    {
+        "key": "rushan",
+        "latitude": 36.89,
+        "longitude": 121.52,
+        "name": "乳山"
+    },
+    {
+        "key": "jinchang",
+        "latitude": 38.520089,
+        "longitude": 102.188043,
+        "name": "金昌"
+    },
+    {
+        "key": "quanzhou",
+        "latitude": 24.93,
+        "longitude": 118.58,
+        "name": "泉州"
+    },
+    {
+        "key": "laixi",
+        "latitude": 36.86,
+        "longitude": 120.53,
+        "name": "莱西"
+    },
+    {
+        "key": "rizhao",
+        "latitude": 35.42,
+        "longitude": 119.46,
+        "name": "日照"
+    },
+    {
+        "key": "jiaonanna",
+        "latitude": 35.88,
+        "longitude": 119.97,
+        "name": "胶南"
+    },
+    {
+        "key": "nannatong",
+        "latitude": 32.08,
+        "longitude": 121.05,
+        "name": "南通"
+    },
+    {
+        "key": "lasa",
+        "latitude": 29.97,
+        "longitude": 91.11,
+        "name": "拉萨"
+    },
+    {
+        "key": "yunfu",
+        "latitude": 22.93,
+        "longitude": 112.02,
+        "name": "云浮"
+    },
+    {
+        "key": "meizhou",
+        "latitude": 24.55,
+        "longitude": 116.1,
+        "name": "梅州"
+    },
+    {
+        "key": "wendeng",
+        "latitude": 37.2,
+        "longitude": 122.05,
+        "name": "文登"
+    },
+    {
+        "key": "shanghai",
+        "latitude": 31.22,
+        "longitude": 121.48,
+        "name": "上海"
+    },
+    {
+        "key": "panzhiqihua",
+        "latitude": 26.582347,
+        "longitude": 101.718637,
+        "name": "攀枝花"
+    },
+    {
+        "key": "weihai",
+        "latitude": 37.5,
+        "longitude": 122.1,
+        "name": "威海"
+    },
+    {
+        "key": "chengde",
+        "latitude": 40.97,
+        "longitude": 117.93,
+        "name": "承德"
+    },
+    {
+        "key": "shaxiamen",
+        "latitude": 24.46,
+        "longitude": 118.1,
+        "name": "厦门"
+    },
+    {
+        "key": "shanweiyi",
+        "latitude": 22.786211,
+        "longitude": 115.375279,
+        "name": "汕尾"
+    },
+    {
+        "key": "chaozhou",
+        "latitude": 23.68,
+        "longitude": 116.63,
+        "name": "潮州"
+    },
+    {
+        "key": "dandong",
+        "latitude": 40.13,
+        "longitude": 124.37,
+        "name": "丹东"
+    },
+    {
+        "key": "taicang",
+        "latitude": 31.45,
+        "longitude": 121.1,
+        "name": "太仓"
+    },
+    {
+        "key": "qujing",
+        "latitude": 25.51,
+        "longitude": 103.79,
+        "name": "曲靖"
+    },
+    {
+        "key": "yantai",
+        "latitude": 37.52,
+        "longitude": 121.39,
+        "name": "烟台"
+    },
+    {
+        "key": "fuzhou",
+        "latitude": 26.08,
+        "longitude": 119.3,
+        "name": "福州"
+    },
+    {
+        "key": "wafangdian",
+        "latitude": 39.627114,
+        "longitude": 121.979603,
+        "name": "瓦房店"
+    },
+    {
+        "key": "jimo",
+        "latitude": 36.38,
+        "longitude": 120.45,
+        "name": "即墨"
+    },
+    {
+        "key": "fushun",
+        "latitude": 41.97,
+        "longitude": 123.97,
+        "name": "抚顺"
+    },
+    {
+        "key": "yuxi",
+        "latitude": 24.35,
+        "longitude": 102.52,
+        "name": "玉溪"
+    },
+    {
+        "key": "zhangjiajiekou",
+        "latitude": 40.82,
+        "longitude": 114.87,
+        "name": "张家口"
+    },
+    {
+        "key": "yangquan",
+        "latitude": 37.85,
+        "longitude": 113.57,
+        "name": "阳泉"
+    },
+    {
+        "key": "laizhou",
+        "latitude": 37.177017,
+        "longitude": 119.942327,
+        "name": "莱州"
+    },
+    {
+        "key": "huzhou",
+        "latitude": 30.86,
+        "longitude": 120.1,
+        "name": "湖州"
+    },
+    {
+        "key": "shantou",
+        "latitude": 23.39,
+        "longitude": 116.69,
+        "name": "汕头"
+    },
+    {
+        "key": "kunshan",
+        "latitude": 31.39,
+        "longitude": 120.95,
+        "name": "昆山"
+    },
+    {
+        "key": "ningzhubo",
+        "latitude": 29.86,
+        "longitude": 121.56,
+        "name": "宁波"
+    },
+    {
+        "key": "zhanjiang",
+        "latitude": 21.270708,
+        "longitude": 110.359377,
+        "name": "湛江"
+    },
+    {
+        "key": "jieqiyang",
+        "latitude": 23.55,
+        "longitude": 116.35,
+        "name": "揭阳"
+    },
+    {
+        "key": "rongcheng",
+        "latitude": 37.16,
+        "longitude": 122.41,
+        "name": "荣成"
+    },
+    {
+        "key": "lianyungangjiang",
+        "latitude": 34.59,
+        "longitude": 119.16,
+        "name": "连云港"
+    },
+    {
+        "key": "huludao",
+        "latitude": 40.711052,
+        "longitude": 120.836932,
+        "name": "葫芦岛"
+    },
+    {
+        "key": "changshu",
+        "latitude": 31.64,
+        "longitude": 120.74,
+        "name": "常熟"
+    },
+    {
+        "key": "dongguanwan",
+        "latitude": 23.04,
+        "longitude": 113.75,
+        "name": "东莞"
+    },
+    {
+        "key": "heyuan",
+        "latitude": 23.73,
+        "longitude": 114.68,
+        "name": "河源"
+    },
+    {
+        "key": "huaian",
+        "latitude": 33.5,
+        "longitude": 119.15,
+        "name": "淮安"
+    },
+    {
+        "key": "taizhou",
+        "latitude": 32.49,
+        "longitude": 119.9,
+        "name": "泰州"
+    },
+    {
+        "key": "nannaningzhu",
+        "latitude": 22.84,
+        "longitude": 108.33,
+        "name": "南宁"
+    },
+    {
+        "key": "yingkou",
+        "latitude": 40.65,
+        "longitude": 122.18,
+        "name": "营口"
+    },
+    {
+        "key": "huizhou",
+        "latitude": 23.09,
+        "longitude": 114.4,
+        "name": "惠州"
+    },
+    {
+        "key": "jiangyin",
+        "latitude": 31.91,
+        "longitude": 120.26,
+        "name": "江阴"
+    },
+    {
+        "key": "penglai",
+        "latitude": 37.8,
+        "longitude": 120.75,
+        "name": "蓬莱"
+    },
+    {
+        "key": "shaoguan",
+        "latitude": 24.84,
+        "longitude": 113.62,
+        "name": "韶关"
+    },
+    {
+        "key": "jiayuguan",
+        "latitude": 39.77313,
+        "longitude": 98.289152,
+        "name": "嘉峪关"
+    },
+    {
+        "key": "guanganzhou",
+        "latitude": 23.16,
+        "longitude": 113.23,
+        "name": "广州"
+    },
+    {
+        "key": "yanan",
+        "latitude": 36.6,
+        "longitude": 109.47,
+        "name": "延安"
+    },
+    {
+        "key": "taiyuan",
+        "latitude": 37.87,
+        "longitude": 112.53,
+        "name": "太原"
+    },
+    {
+        "key": "qingyuan",
+        "latitude": 23.7,
+        "longitude": 113.01,
+        "name": "清远"
+    },
+    {
+        "key": "zhongshan",
+        "latitude": 22.52,
+        "longitude": 113.38,
+        "name": "中山"
+    },
+    {
+        "key": "kunming",
+        "latitude": 25.04,
+        "longitude": 102.73,
+        "name": "昆明"
+    },
+    {
+        "key": "shouguang",
+        "latitude": 36.86,
+        "longitude": 118.73,
+        "name": "寿光"
+    },
+    {
+        "key": "panjin",
+        "latitude": 41.119997,
+        "longitude": 122.070714,
+        "name": "盘锦"
+    },
+    {
+        "key": "changzhangzhi",
+        "latitude": 36.18,
+        "longitude": 113.08,
+        "name": "长治"
+    },
+    {
+        "key": "shenzhen",
+        "latitude": 22.62,
+        "longitude": 114.07,
+        "name": "深圳"
+    },
+    {
+        "key": "zhuhai",
+        "latitude": 22.3,
+        "longitude": 113.52,
+        "name": "珠海"
+    },
+    {
+        "key": "suxiuqian",
+        "latitude": 33.96,
+        "longitude": 118.3,
+        "name": "宿迁"
+    },
+    {
+        "key": "xianyang",
+        "latitude": 34.36,
+        "longitude": 108.72,
+        "name": "咸阳"
+    },
+    {
+        "key": "tongchuan",
+        "latitude": 35.09,
+        "longitude": 109.11,
+        "name": "铜川"
+    },
+    {
+        "key": "pingduduo",
+        "latitude": 36.77,
+        "longitude": 119.97,
+        "name": "平度"
+    },
+    {
+        "key": "fofubiboshan",
+        "latitude": 23.05,
+        "longitude": 113.11,
+        "name": "佛山"
+    },
+    {
+        "key": "haikou",
+        "latitude": 20.02,
+        "longitude": 110.35,
+        "name": "海口"
+    },
+    {
+        "key": "jiangmen",
+        "latitude": 22.61,
+        "longitude": 113.06,
+        "name": "江门"
+    },
+    {
+        "key": "zhangqiu",
+        "latitude": 36.72,
+        "longitude": 117.53,
+        "name": "章丘"
+    },
+    {
+        "key": "zhaoqing",
+        "latitude": 23.05,
+        "longitude": 112.44,
+        "name": "肇庆"
+    },
+    {
+        "key": "dadaitailian",
+        "latitude": 38.92,
+        "longitude": 121.62,
+        "name": "大连"
+    },
+    {
+        "key": "linfen",
+        "latitude": 36.08,
+        "longitude": 111.5,
+        "name": "临汾"
+    },
+    {
+        "key": "wujiang",
+        "latitude": 31.16,
+        "longitude": 120.63,
+        "name": "吴江"
+    },
+    {
+        "key": "shidanzuishan",
+        "latitude": 39.04,
+        "longitude": 106.39,
+        "name": "石嘴山"
+    },
+    {
+        "key": "shenchenyang",
+        "latitude": 41.8,
+        "longitude": 123.38,
+        "name": "沈阳"
+    },
+    {
+        "key": "suzhou",
+        "latitude": 31.32,
+        "longitude": 120.62,
+        "name": "苏州"
+    },
+    {
+        "key": "maoming",
+        "latitude": 21.68,
+        "longitude": 110.88,
+        "name": "茂名"
+    },
+    {
+        "key": "jiaxing",
+        "latitude": 30.77,
+        "longitude": 120.76,
+        "name": "嘉兴"
+    },
+    {
+        "key": "changzhangchun",
+        "latitude": 43.88,
+        "longitude": 125.35,
+        "name": "长春"
+    },
+    {
+        "key": "jiaozhou",
+        "latitude": 36.264622,
+        "longitude": 120.03336,
+        "name": "胶州"
+    },
+    {
+        "key": "yinchuan",
+        "latitude": 38.47,
+        "longitude": 106.27,
+        "name": "银川"
+    },
+    {
+        "key": "zhangjiajiegangjiang",
+        "latitude": 31.875428,
+        "longitude": 120.555821,
+        "name": "张家港"
+    },
+    {
+        "key": "sanmenxia",
+        "latitude": 34.76,
+        "longitude": 111.19,
+        "name": "三门峡"
+    },
+    {
+        "key": "jinzhou",
+        "latitude": 41.13,
+        "longitude": 121.15,
+        "name": "锦州"
+    },
+    {
+        "key": "nannachang",
+        "latitude": 28.68,
+        "longitude": 115.89,
+        "name": "南昌"
+    },
+    {
+        "key": "liuzhou",
+        "latitude": 24.33,
+        "longitude": 109.4,
+        "name": "柳州"
+    },
+    {
+        "key": "sanya",
+        "latitude": 18.252847,
+        "longitude": 109.511909,
+        "name": "三亚"
+    },
+    {
+        "key": "zigong",
+        "latitude": 29.33903,
+        "longitude": 104.778442,
+        "name": "自贡"
+    },
+    {
+        "key": "jilin",
+        "latitude": 43.87,
+        "longitude": 126.57,
+        "name": "吉林"
+    },
+    {
+        "key": "yangjiang",
+        "latitude": 21.85,
+        "longitude": 111.95,
+        "name": "阳江"
+    },
+    {
+        "key": "luzhou",
+        "latitude": 28.91,
+        "longitude": 105.39,
+        "name": "泸州"
+    },
+    {
+        "key": "xiningzhu",
+        "latitude": 36.56,
+        "longitude": 101.74,
+        "name": "西宁"
+    },
+    {
+        "key": "yibin",
+        "latitude": 29.77,
+        "longitude": 104.56,
+        "name": "宜宾"
+    },
+    {
+        "key": "huhehuohuhaote",
+        "latitude": 40.82,
+        "longitude": 111.65,
+        "name": "呼和浩特"
+    },
+    {
+        "key": "chengdudou",
+        "latitude": 30.67,
+        "longitude": 104.06,
+        "name": "成都"
+    },
+    {
+        "key": "dadaitaitong",
+        "latitude": 40.12,
+        "longitude": 113.3,
+        "name": "大同"
+    },
+    {
+        "key": "zhenjiang",
+        "latitude": 32.2,
+        "longitude": 119.44,
+        "name": "镇江"
+    },
+    {
+        "key": "guilin",
+        "latitude": 25.29,
+        "longitude": 110.28,
+        "name": "桂林"
+    },
+    {
+        "key": "zhangjiajiejie",
+        "latitude": 29.117096,
+        "longitude": 110.479191,
+        "name": "张家界"
+    },
+    {
+        "key": "yixing",
+        "latitude": 31.36,
+        "longitude": 119.82,
+        "name": "宜兴"
+    },
+    {
+        "key": "beihai",
+        "latitude": 21.49,
+        "longitude": 109.12,
+        "name": "北海"
+    },
+    {
+        "key": "xian",
+        "latitude": 34.27,
+        "longitude": 108.95,
+        "name": "西安"
+    },
+    {
+        "key": "jintan",
+        "latitude": 31.74,
+        "longitude": 119.56,
+        "name": "金坛"
+    },
+    {
+        "key": "dongying",
+        "latitude": 37.46,
+        "longitude": 118.49,
+        "name": "东营"
+    },
+    {
+        "key": "mudanjiang",
+        "latitude": 44.6,
+        "longitude": 129.58,
+        "name": "牡丹江"
+    },
+    {
+        "key": "zunyi",
+        "latitude": 27.7,
+        "longitude": 106.9,
+        "name": "遵义"
+    },
+    {
+        "key": "shaoxing",
+        "latitude": 30.01,
+        "longitude": 120.58,
+        "name": "绍兴"
+    },
+    {
+        "key": "yangzhou",
+        "latitude": 32.39,
+        "longitude": 119.42,
+        "name": "扬州"
+    },
+    {
+        "key": "changzhou",
+        "latitude": 31.79,
+        "longitude": 119.95,
+        "name": "常州"
+    },
+    {
+        "key": "weifang",
+        "latitude": 36.62,
+        "longitude": 119.1,
+        "name": "潍坊"
+    },
+    {
+        "key": "zhongchongqing",
+        "latitude": 29.59,
+        "longitude": 106.54,
+        "name": "重庆"
+    },
+    {
+        "key": "taizhou",
+        "latitude": 28.656386,
+        "longitude": 121.420757,
+        "name": "台州"
+    },
+    {
+        "key": "nannajing",
+        "latitude": 32.04,
+        "longitude": 118.78,
+        "name": "南京"
+    },
+    {
+        "key": "binzhou",
+        "latitude": 37.36,
+        "longitude": 118.03,
+        "name": "滨州"
+    },
+    {
+        "key": "guiyang",
+        "latitude": 26.57,
+        "longitude": 106.71,
+        "name": "贵阳"
+    },
+    {
+        "key": "wuxi",
+        "latitude": 31.59,
+        "longitude": 120.29,
+        "name": "无锡"
+    },
+    {
+        "key": "benxi",
+        "latitude": 41.3,
+        "longitude": 123.73,
+        "name": "本溪"
+    },
+    {
+        "key": "kelamayi",
+        "latitude": 45.59,
+        "longitude": 84.77,
+        "name": "克拉玛依"
+    },
+    {
+        "key": "weinanna",
+        "latitude": 34.52,
+        "longitude": 109.5,
+        "name": "渭南"
+    },
+    {
+        "key": "maanshan",
+        "latitude": 31.56,
+        "longitude": 118.48,
+        "name": "马鞍山"
+    },
+    {
+        "key": "baoji",
+        "latitude": 34.38,
+        "longitude": 107.15,
+        "name": "宝鸡"
+    },
+    {
+        "key": "jiaozuo",
+        "latitude": 35.24,
+        "longitude": 113.21,
+        "name": "焦作"
+    },
+    {
+        "key": "jugourong",
+        "latitude": 31.95,
+        "longitude": 119.16,
+        "name": "句容"
+    },
+    {
+        "key": "beijing",
+        "latitude": 39.92,
+        "longitude": 116.46,
+        "name": "北京"
+    },
+    {
+        "key": "xuzhou",
+        "latitude": 34.26,
+        "longitude": 117.2,
+        "name": "徐州"
+    },
+    {
+        "key": "hengshui",
+        "latitude": 37.72,
+        "longitude": 115.72,
+        "name": "衡水"
+    },
+    {
+        "key": "baotou",
+        "latitude": 40.58,
+        "longitude": 110,
+        "name": "包头"
+    },
+    {
+        "key": "mianyang",
+        "latitude": 31.48,
+        "longitude": 104.73,
+        "name": "绵阳"
+    },
+    {
+        "key": "wulumuqijizizhai",
+        "latitude": 43.77,
+        "longitude": 87.68,
+        "name": "乌鲁木齐"
+    },
+    {
+        "key": "zaozhuang",
+        "latitude": 34.86,
+        "longitude": 117.57,
+        "name": "枣庄"
+    },
+    {
+        "key": "hangzhou",
+        "latitude": 30.26,
+        "longitude": 120.19,
+        "name": "杭州"
+    },
+    {
+        "key": "zibo",
+        "latitude": 36.78,
+        "longitude": 118.05,
+        "name": "淄博"
+    },
+    {
+        "key": "anshan",
+        "latitude": 41.12,
+        "longitude": 122.85,
+        "name": "鞍山"
+    },
+    {
+        "key": "liyang",
+        "latitude": 31.43,
+        "longitude": 119.48,
+        "name": "溧阳"
+    },
+    {
+        "key": "kuerlelei",
+        "latitude": 41.68,
+        "longitude": 86.06,
+        "name": "库尔勒"
+    },
+    {
+        "key": "anyang",
+        "latitude": 36.1,
+        "longitude": 114.35,
+        "name": "安阳"
+    },
+    {
+        "key": "kaifeng",
+        "latitude": 34.79,
+        "longitude": 114.35,
+        "name": "开封"
+    },
+    {
+        "key": "jinanna",
+        "latitude": 36.65,
+        "longitude": 117,
+        "name": "济南"
+    },
+    {
+        "key": "deyang",
+        "latitude": 31.13,
+        "longitude": 104.37,
+        "name": "德阳"
+    },
+    {
+        "key": "wenzhou",
+        "latitude": 28.01,
+        "longitude": 120.65,
+        "name": "温州"
+    },
+    {
+        "key": "jiujiang",
+        "latitude": 29.71,
+        "longitude": 115.97,
+        "name": "九江"
+    },
+    {
+        "key": "handan",
+        "latitude": 36.6,
+        "longitude": 114.47,
+        "name": "邯郸"
+    },
+    {
+        "key": "linan",
+        "latitude": 30.23,
+        "longitude": 119.72,
+        "name": "临安"
+    },
+    {
+        "key": "lanzhou",
+        "latitude": 36.03,
+        "longitude": 103.73,
+        "name": "兰州"
+    },
+    {
+        "key": "cangzhou",
+        "latitude": 38.33,
+        "longitude": 116.83,
+        "name": "沧州"
+    },
+    {
+        "key": "linyi",
+        "latitude": 35.05,
+        "longitude": 118.35,
+        "name": "临沂"
+    },
+    {
+        "key": "nannachong",
+        "latitude": 30.837793,
+        "longitude": 106.110698,
+        "name": "南充"
+    },
+    {
+        "key": "tianjin",
+        "latitude": 39.13,
+        "longitude": 117.2,
+        "name": "天津"
+    },
+    {
+        "key": "fuyang",
+        "latitude": 30.07,
+        "longitude": 119.95,
+        "name": "富阳"
+    },
+    {
+        "key": "taian",
+        "latitude": 36.18,
+        "longitude": 117.13,
+        "name": "泰安"
+    },
+    {
+        "key": "zhuji",
+        "latitude": 29.71,
+        "longitude": 120.23,
+        "name": "诸暨"
+    },
+    {
+        "key": "zhengzhou",
+        "latitude": 34.76,
+        "longitude": 113.65,
+        "name": "郑州"
+    },
+    {
+        "key": "haerbin",
+        "latitude": 45.75,
+        "longitude": 126.63,
+        "name": "哈尔滨"
+    },
+    {
+        "key": "liaocheng",
+        "latitude": 36.45,
+        "longitude": 115.97,
+        "name": "聊城"
+    },
+    {
+        "key": "wuhu",
+        "latitude": 31.33,
+        "longitude": 118.38,
+        "name": "芜湖"
+    },
+    {
+        "key": "tangshan",
+        "latitude": 39.63,
+        "longitude": 118.02,
+        "name": "唐山"
+    },
+    {
+        "key": "pingdingshan",
+        "latitude": 33.75,
+        "longitude": 113.29,
+        "name": "平顶山"
+    },
+    {
+        "key": "xingtai",
+        "latitude": 37.05,
+        "longitude": 114.48,
+        "name": "邢台"
+    },
+    {
+        "key": "dezhou",
+        "latitude": 37.45,
+        "longitude": 116.29,
+        "name": "德州"
+    },
+    {
+        "key": "jiningzhu",
+        "latitude": 35.38,
+        "longitude": 116.59,
+        "name": "济宁"
+    },
+    {
+        "key": "jingzhou",
+        "latitude": 30.335165,
+        "longitude": 112.239741,
+        "name": "荆州"
+    },
+    {
+        "key": "yichang",
+        "latitude": 30.7,
+        "longitude": 111.3,
+        "name": "宜昌"
+    },
+    {
+        "key": "yiwu",
+        "latitude": 29.32,
+        "longitude": 120.06,
+        "name": "义乌"
+    },
+    {
+        "key": "lishui",
+        "latitude": 28.45,
+        "longitude": 119.92,
+        "name": "丽水"
+    },
+    {
+        "key": "luoyang",
+        "latitude": 34.7,
+        "longitude": 112.44,
+        "name": "洛阳"
+    },
+    {
+        "key": "qinhuangdao",
+        "latitude": 39.95,
+        "longitude": 119.57,
+        "name": "秦皇岛"
+    },
+    {
+        "key": "zhuzhou",
+        "latitude": 27.83,
+        "longitude": 113.16,
+        "name": "株洲"
+    },
+    {
+        "key": "shidanjiajiezhuang",
+        "latitude": 38.03,
+        "longitude": 114.48,
+        "name": "石家庄"
+    },
+    {
+        "key": "laiwu",
+        "latitude": 36.19,
+        "longitude": 117.67,
+        "name": "莱芜"
+    },
+    {
+        "key": "changde",
+        "latitude": 29.05,
+        "longitude": 111.69,
+        "name": "常德"
+    },
+    {
+        "key": "baoding",
+        "latitude": 38.85,
+        "longitude": 115.48,
+        "name": "保定"
+    },
+    {
+        "key": "xiangtan",
+        "latitude": 27.87,
+        "longitude": 112.91,
+        "name": "湘潭"
+    },
+    {
+        "key": "jinhua",
+        "latitude": 29.12,
+        "longitude": 119.64,
+        "name": "金华"
+    },
+    {
+        "key": "yueyang",
+        "latitude": 29.37,
+        "longitude": 113.09,
+        "name": "岳阳"
+    },
+    {
+        "key": "changzhangsha",
+        "latitude": 28.21,
+        "longitude": 113,
+        "name": "长沙"
+    },
+    {
+        "key": "quzhou",
+        "latitude": 28.97,
+        "longitude": 118.88,
+        "name": "衢州"
+    },
+    {
+        "key": "langfang",
+        "latitude": 39.53,
+        "longitude": 116.7,
+        "name": "廊坊"
+    },
+    {
+        "key": "hezeshi",
+        "latitude": 35.23375,
+        "longitude": 115.480656,
+        "name": "菏泽"
+    },
+    {
+        "key": "hegefei",
+        "latitude": 31.86,
+        "longitude": 117.27,
+        "name": "合肥"
+    },
+    {
+        "key": "wuhan",
+        "latitude": 30.52,
+        "longitude": 114.31,
+        "name": "武汉"
+    },
+    {
+        "key": "dadaitaiqing",
+        "latitude": 46.58,
+        "longitude": 125.03,
+        "name": "大庆"
+    }
+]
